@@ -62,6 +62,7 @@
     <Compile Include="CorsHttpModule.cs" />
     <Compile Include="RegistrationModule.cs" />
     <Compile Include="CustomBootstrapper.cs" />
+    <Compile Include="ScheduledEventModule.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />

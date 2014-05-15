@@ -15,7 +15,7 @@ namespace Cqrsdemo.Queries
 			set;
 		}
 
-		public Participant (string firstName, string lastName)
+		public Participant (string firstName, string lastName, EmailAddress emailAddress)
 		{
 			this.LastName = lastName;
 			this.FirstName = firstName;

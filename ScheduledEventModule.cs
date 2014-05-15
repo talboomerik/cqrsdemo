@@ -1,13 +1,13 @@
 ﻿using System;
 using Nancy;
-using System.Collections.Generic;
 using Cqrsdemo.Queries;
+using System.Collections.Generic;
 
 namespace Cqrsdemo
 {
-	public class RegistrationModule : NancyModule
+	public class ScheduledEventModule : NancyModule
 	{
-		public RegistrationModule() : base("/api/registrations")
+		public ScheduledEventModule () : base("/api/scheduledevents/{id}/participants")
 		{
 			Get["/"] = parameters => {
 				return Negotiate.WithStatusCode(HttpStatusCode.OK)
