@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cqrsdemo.Queries/Participant.cs">
+    <Files>
+      <File FileName="web.config" Line="1" Column="1" />
+      <File FileName="../../js_driven_page/WebApi/NancyFxEndpoint/CorsHttpModule.cs" Line="19" Column="7" />
+      <File FileName="../../js_driven_page/WebApi/NancyFxEndpoint/ProgramModule.cs" Line="11" Column="7" />
+      <File FileName="RegistrationModule.cs" Line="7" Column="33" />
+      <File FileName="Cqrsdemo.Specifications/RegistrationSpecification.cs" Line="10" Column="40" />
+      <File FileName="CorsHttpModule.cs" Line="1" Column="1" />
+      <File FileName="CustomBootstrapper.cs" Line="1" Column="1" />
+      <File FileName="Cqrsdemo.Queries/ParticipantsOfScheduledEventQuery.cs" Line="16" Column="29" />
+      <File FileName="Cqrsdemo.Queries/ScheduledEventId.cs" Line="14" Column="18" />
+      <File FileName="Cqrsdemo.Queries/Participant.cs" Line="16" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/eriktalboom/Code/CoLearning/Cqrs-demo/Cqrsdemo.Queries/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/eriktalboom/Code/CoLearning/Cqrs-demo/Cqrsdemo.Queries/bin/Debug/Cqrsdemo.Queries.dll.mdb
+/Users/eriktalboom/Code/CoLearning/Cqrs-demo/Cqrsdemo.Queries/bin/Debug/Cqrsdemo.Queries.dll
+/Users/eriktalboom/Code/CoLearning/Cqrs-demo/Cqrsdemo.Queries/obj/Debug/Cqrsdemo.Queries.dll
+/Users/eriktalboom/Code/CoLearning/Cqrs-demo/Cqrsdemo.Queries/obj/Debug/Cqrsdemo.Queries.dll.mdb
