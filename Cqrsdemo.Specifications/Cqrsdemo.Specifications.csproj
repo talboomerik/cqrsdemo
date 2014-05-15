@@ -44,10 +44,15 @@
     <Reference Include="Moq">
       <HintPath>..\packages\Moq.4.2.1402.2112\lib\net40\Moq.dll</HintPath>
     </Reference>
+    <Reference Include="Ploeh.AutoFixture">
+      <HintPath>..\packages\AutoFixture.3.18.6\lib\net40\Ploeh.AutoFixture.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ScheduledEventSpecification.cs" />
-    <Compile Include="SpecificationAttribute.cs" />
+    <Compile Include="SimpleTestExtensions\BaseSpecification.cs" />
+    <Compile Include="SimpleTestExtensions\RenameOfTestAttributes.cs" />
+    <Compile Include="SimpleTestExtensions\ThereWasNoExceptionButOneWasExpectedException.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
@@ -62,5 +67,8 @@
       <Project>{B7B6444D-8178-4CC9-BCBE-71662AC34FAE}</Project>
       <Name>Cqrsdemo.Queries</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="SimpleTestExtensions\" />
   </ItemGroup>
 </Project>
