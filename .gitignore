@@ -1,3 +1,7 @@
-﻿
-/bin
+﻿*.pidb
+*.userprefs
+
 /packages
+[Oo]bj/
+[Bb]in/
+[Dd]ebug*/
